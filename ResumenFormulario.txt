@@ -1,0 +1,7 @@
+NOMBRE : Liset
+APELLIDOS: Machacca Puma
+SEXO : Femenino
+CORREO:luca@unsa.edu.pe
+DIRECCION : Barrio:JuanVelasco
+CIUDAD: Cusco
+REQUERIMIENTO : Visacion de silabo
